@@ -18,7 +18,7 @@ However, time is of the essence as CCCARE is hosting an upcoming event attended 
 
 ## Sub-Problems
 
-## Problem
+## Vision
 
 description
 
@@ -27,7 +27,7 @@ Design ...
 
 ---
 
-## Problem
+## Hearing
 
 description
 
@@ -36,7 +36,15 @@ Design ...
 
 ---
 
-## Problem
+## Cognitive Assistance
+
+description
+
+### Challenge
+Design ...
+
+---
+## Sensory Perception
 
 description
 
