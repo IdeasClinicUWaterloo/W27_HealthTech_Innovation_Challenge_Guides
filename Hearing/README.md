@@ -6,6 +6,6 @@
 
 ### Design Considerations 
 
-## Potential Solutions
+## Focus Areas
 
 ## Resources
