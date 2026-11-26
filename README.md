@@ -23,11 +23,10 @@ Design ...
 ---
 
 ## Hearing
-
-description
+Hearing loss, tinnitus, and missed environmental audio cues can significantly reduce quality of life, communication confidence, and personal safety. Hearing technology solutions that improve communication, comfort, or safety for users with hearing-related needs can help improve quality of life. 
 
 ### Challenge
-Design ...
+The goal is to design a scalable hearing technology solution that improves communication, comfort, or safety for users with hearing-related needs. For more information and a hearing loss simulation to gain a better perspective on hearing loss look at [Hearing Subproblem Folder](./Hearing).
 
 ---
 
@@ -40,11 +39,10 @@ Design ...
 
 ---
 ## Sensory Perception
-
-description
+Changes in sensory perception can affect how older adults interact with everyday environments, objects, food, and other people. These changes may result from normal aging, sensory impairment, cognitive decline, neurological conditions, medications, or other health conditions. While it may not always be possible to restore or correct the underlying sensory change, small adaptations may reduce discomfort and make everyday experiences easier to navigate.
 
 ### Challenge
-Design ...
+The goal is to develop practical and scalable solutions that minimize the negative impact of sensory experiences while supporting comfort, safety, independence, and autonomy. For more information look at [Sensory Perception Folder](./Sensory-Perception). 
 
 ---
 
