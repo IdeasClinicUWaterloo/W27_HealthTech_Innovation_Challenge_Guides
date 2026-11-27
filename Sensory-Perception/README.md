@@ -25,5 +25,7 @@ Some sample focus areas you can explore include:
 
 ## Resources
 [Grove Kit Sensors Information](https://github.com/IdeasClinicUWaterloo/TechResources/tree/main/Microcontrollers/Sensors%2BComponents/Grove_Kit)
+
 [Website Development](https://github.com/IdeasClinicUWaterloo/TechResources/tree/main/Website_Development)
+
 [UI Figma Design](https://github.com/IdeasClinicUWaterloo/TechResources/tree/main/UI_Design)
