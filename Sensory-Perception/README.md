@@ -8,6 +8,7 @@
 
 ## Focus Areas
 Some sample focus areas you can explore include: 
+
 **Adapting to Changes in Sensory Perception**
 - An elderly person may have varying sensory experiences day to day. They may feel too hot or too coo, have difficulty sensing the ground through footwear, experience changes in grip, or become sensitive to the taste and texture of food, drinks , and medications.
 - Meaning, sensory needs and preferences are highly individual which makes it difficult for a product to provide the same level of accommodation to everyone in the same way. For example, a material, texture, temperature, or level of support that is comfortable for one person may be uncomfortable or impractical for another. There can also be design considerations to be made to attain to certain needs such as added cushioning may improve comfort while reducing feedback from the ground, or an easy-to-grip surface may introduce a texture that another person finds unpleasant.
