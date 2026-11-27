@@ -3,6 +3,8 @@
 Develop a practical and scalable solution that minimizes the negative impact of sensory experiences while supporting comfort, safety, independence, and autonomy. 
 
 ### Design Considerations 
+Consider questions such as: 
+- 
 
 ## Focus Areas
 Some sample focus areas you can explore include but are certainly not limited to: 
