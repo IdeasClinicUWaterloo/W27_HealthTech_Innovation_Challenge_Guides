@@ -1,13 +1,11 @@
 # Sensory Perception 
-
-## Background 
-
 ## Challenge 
+Develop a practical and scalable solution that minimizes the negative impact of sensory experiences while supporting comfort, safety, independence, and autonomy. 
 
 ### Design Considerations 
 
 ## Focus Areas
-Some sample focus areas you can explore include: 
+Some sample focus areas you can explore include but are certainly not limited to: 
 
 **Adapting to Changes in Sensory Perception**
 - An elderly person may have varying sensory experiences day to day. They may feel too hot or too coo, have difficulty sensing the ground through footwear, experience changes in grip, or become sensitive to the taste and texture of food, drinks , and medications.
@@ -25,8 +23,6 @@ Some sample focus areas you can explore include:
 - There is an opportunity to develop solutions that assist in recognizing potential sources of sensory discomfort and support and appropriate response. This could include reminders for needs such as drinking, way of identifying changes in the environment, or methods that help individuals communicate discomfort when traditional verbal or written communication is difficult. 
 
 ## Resources
-[Grove Kit Sensors Information](https://github.com/IdeasClinicUWaterloo/TechResources/tree/main/Microcontrollers/Sensors%2BComponents/Grove_Kit)
-
-[Website Development](https://github.com/IdeasClinicUWaterloo/TechResources/tree/main/Website_Development)
-
-[UI Figma Design](https://github.com/IdeasClinicUWaterloo/TechResources/tree/main/UI_Design)
+- [Grove Kit Sensors Information](https://github.com/IdeasClinicUWaterloo/TechResources/tree/main/Microcontrollers/Sensors%2BComponents/Grove_Kit)
+- [Website Development](https://github.com/IdeasClinicUWaterloo/TechResources/tree/main/Website_Development)
+- [UI Figma Design](https://github.com/IdeasClinicUWaterloo/TechResources/tree/main/UI_Design)
